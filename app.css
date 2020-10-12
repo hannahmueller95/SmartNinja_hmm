@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    max-width: 500px;
+    margin: auto;
+}
+
+
+h1 {
+    text-align: center;
+    color: #4B0082;
+    font-size: 50px;
+    border: blue 5px dotted;
+
+}
+
+h2 {
+    text-align: center;
+    color: #ff3399;
+    font-size: 30px;
+}
+button{
+    background-color: #ff3399;
+    border: none;
+    color: black;
+    padding: 25px 190px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
+
+p {
+    font-size: 20px;
+    color: #ff3399;
+}
+
+
+img: {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+label: {
+    font-size: 20px;
+}
